@@ -23,5 +23,3 @@ Built with SwiftUI and some UIKit Components like Safari View.
 
 
 
----
-* Created through Sean Allen's course, SwiftUI Fundamentals.
